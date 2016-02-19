@@ -1,1 +1,6 @@
 .DS_Store
+*.o
+*.d
+*.tar.gz
+*.mp3
+gradle/fmp-library/
