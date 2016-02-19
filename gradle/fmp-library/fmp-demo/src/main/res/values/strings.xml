@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">FMP Demo</string>
+    <string name="app_name">SCFFmpegMediaPlayer</string>
     <string name="uri_hint">Enter a URI (http/mmsh/file/etc.)</string>
     <string name="uri_error">Enter a valid URI</string>
     <string name="go">Go</string>
