@@ -61,9 +61,9 @@ android {
     clean.dependsOn 'cleanNative'
     buildNative.dependsOn 'buildFFmpeg'
 
-    tasks.withType(JavaCompile) {
-        compileTask -> compileTask.dependsOn buildNative
-    }
+//    tasks.withType(JavaCompile) {
+//        compileTask -> compileTask.dependsOn buildNative
+//    }
 
     libraryVariants.all { variant ->
         variant.outputs.each { output ->
