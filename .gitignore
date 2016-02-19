@@ -3,4 +3,5 @@
 *.d
 *.tar.gz
 *.mp3
+gradle/fmp-library/library/build/
 gradle/fmp-library/
