@@ -58,8 +58,8 @@ android {
                 'clean'
     }
 
-    clean.dependsOn 'cleanNative'
-    buildNative.dependsOn 'buildFFmpeg'
+    //clean.dependsOn 'cleanNative'
+    //buildNative.dependsOn 'buildFFmpeg'
 
 //    tasks.withType(JavaCompile) {
 //        compileTask -> compileTask.dependsOn buildNative
