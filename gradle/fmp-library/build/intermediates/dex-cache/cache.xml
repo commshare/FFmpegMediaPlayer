@@ -9,13 +9,6 @@
         <dex dex="Z:\csFFmpegMediaPlayer\gradle\fmp-library\fmp-demo\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-cb9ebc1c82a18883b1cf8429f55c9c0f0fac3d73.jar" />
     </item>
     <item
-        jar="Z:\csFFmpegMediaPlayer\gradle\fmp-library\fmp-demo\build\intermediates\exploded-aar\fmp-library\library\unspecified\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="e9caf47abdc4bc122dc1f537a2f64545015035d5">
-        <dex dex="Z:\csFFmpegMediaPlayer\gradle\fmp-library\fmp-demo\build\intermediates\pre-dexed\debug\classes-2726b67363b4aed9ff8262464b2ec492051b860d.jar" />
-    </item>
-    <item
         jar="Z:\csFFmpegMediaPlayer\gradle\fmp-library\fmp-demo\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
@@ -23,11 +16,18 @@
         <dex dex="Z:\csFFmpegMediaPlayer\gradle\fmp-library\fmp-demo\build\intermediates\pre-dexed\debug\classes-fe13f6d9c9d1911e70ea1c564daec6c4bb5b38c0.jar" />
     </item>
     <item
-        jar="E:\zhangbin\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jar="G:\PeterTheGreat\AndroidTOOLS\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="Z:\csFFmpegMediaPlayer\gradle\fmp-library\fmp-demo\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-6259e6ac7d81b1514fab8370854d5b68b3249c80.jar" />
+        <dex dex="Z:\csFFmpegMediaPlayer\gradle\fmp-library\fmp-demo\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-5c1f11e37d641bd41c93490652245191213e10c0.jar" />
+    </item>
+    <item
+        jar="Z:\csFFmpegMediaPlayer\gradle\fmp-library\fmp-demo\build\intermediates\exploded-aar\fmp-library\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="de7818613d8c1d93060605762e78339822a93e36">
+        <dex dex="Z:\csFFmpegMediaPlayer\gradle\fmp-library\fmp-demo\build\intermediates\pre-dexed\debug\classes-2726b67363b4aed9ff8262464b2ec492051b860d.jar" />
     </item>
     <item
         jar="Z:\csFFmpegMediaPlayer\gradle\fmp-library\fmp-demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
